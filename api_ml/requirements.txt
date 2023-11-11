@@ -1,0 +1,14 @@
+tensorflow==2.13.0
+fastapi
+firebase-admin
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.13.0rc1
+matplotlib
+opencv-python
+numpy
+easyocr
+autocorrect
+SpeechRecognition
+pydub
